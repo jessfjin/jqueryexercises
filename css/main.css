@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.change {
+	color: salmon;
+	font-size: 56px;
+	font-family: serif;
+}
+
+.box {
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+}
+.tealbox {
+	width: 200px;
+	height: 200px;
+	background-color: teal;
+}
+
+.newfont {
+	font-family: serif;
+}
